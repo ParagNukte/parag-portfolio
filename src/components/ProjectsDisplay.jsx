@@ -3,7 +3,7 @@ import projects from "./projects"
 import { Link } from "react-router-dom";
 const ProjectCard = ({ image, title, caption }) => {
   return (
-    <Link to="/projects/megablog">
+    <Link to="/projects/contextapi">
       <Card sx={{ maxWidth: 345 }}>
         <CardMedia component="img" height="140" image={image} alt={title} />
         <CardContent>
