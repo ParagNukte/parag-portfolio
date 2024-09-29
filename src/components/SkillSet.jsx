@@ -31,23 +31,23 @@ function SkillSet() {
     },
     {
       skillName: "React-Router",
-      skillIcon: "/reactrouter.svg",
+      skillIcon: "/parag-portfolio/reactrouter.svg",
     },
     {
       skillName: "Redux-Toolkit",
-      skillIcon: "/redux.svg",
+      skillIcon: "/parag-portfolio/redux.svg",
     },
     {
       skillName: "Rest-API",
-      skillIcon: "/restapi.svg",
+      skillIcon: "/parag-portfolio/restapi.svg",
     },
     {
       skillName: "Tailwind CSS",
-      skillIcon: "/tailwind.svg",
+      skillIcon: "/parag-portfolio/tailwind.svg",
     },
     {
       skillName: "Next JS",
-      skillIcon: "/nextjs.svg",
+      skillIcon: "/parag-portfolio/nextjs.svg",
     },
   ];
   return (

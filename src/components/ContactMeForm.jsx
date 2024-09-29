@@ -22,13 +22,13 @@ function ContactMeForm() {
   const socialLinks = [
     {
       icon: faEnvelope,
-      bgColor: "bg-red-600 hover:bg-red-700",
+      bgColor: "bg-red-500 hover:bg-red-700",
       onClick: handleMailClick,
       tooltip: "paragnuktek@gmail.com",
     },
     {
       icon: faGithub,
-      bgColor: "bg-gray-900 hover:bg-gray-900", // Adjust hover color to be more visible
+      bgColor: "bg-gray-600 hover:bg-gray-900", // Adjust hover color to be more visible
       onClick: () =>
         window.open(
           "https://github.com/ParagNukte/",
@@ -38,7 +38,7 @@ function ContactMeForm() {
     },
     {
       icon: faLinkedin,
-      bgColor: "bg-blue-600 hover:bg-blue-700",
+      bgColor: "bg-blue-500 hover:bg-blue-700",
       onClick: () =>
         window.open(
           "https://www.linkedin.com/in/paragnukte/",
@@ -48,7 +48,7 @@ function ContactMeForm() {
     },
     {
       icon: faWhatsapp,
-      bgColor: "bg-green-600 hover:bg-green-700",
+      bgColor: "bg-green-500 hover:bg-green-700",
       onClick: sendMessage,
     },
   ];
