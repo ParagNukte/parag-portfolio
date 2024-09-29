@@ -13,13 +13,13 @@ const Home = () => {
     <div className=" w-screen h-screen section  flex justify-between">
       <div className="flex flex-col w-1/2 items-center justify-center ">
         <video width="90%" loop autoPlay muted>
-          <source src="/welcome_vid.mp4" type="video/mp4" />
+          <source src="/parag-portfolio/welcome_vid.mp4" type="video/mp4" />
           Sorry, your browser doesn't support embedded videos.
         </video>
       </div>
 
       <div className="flex flex-col w-1/2  text-balance  mt-20 ">
-      <div className=" font-brunoace text-3xl mx-4">Introduction</div>
+        <div className=" font-brunoace text-3xl mx-4">Introduction</div>
         <div className="flex mt-10 mx-4 w-10/12 text-balance ">
           Dedicated Front-End Developer skilled in JavaScript, React, and
           Bootstrap. Experienced in creating dynamic, responsive websites and
