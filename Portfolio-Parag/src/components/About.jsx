@@ -24,7 +24,7 @@ function About() {
                   My brief
                 </h3>
                 <p className="mt-4 text-lg text-gray-600">
-                  Frontend Developer with 3.5 years of experience at Infosys
+                  Frontend Developer with 4 years of experience at Infosys
                   Ltd., specializing in web and mobile development. Proficient
                   in React.js, React Native, and Next.js, with a focus on
                   building responsive, dynamic web pages and reusable
